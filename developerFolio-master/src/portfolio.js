@@ -90,8 +90,8 @@ const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
 
-  githubConvertedToken: "YTEzODE3YjcxODkwODcxZjljNDM1ZTM3NjA3NjIzZmQ5YThkNzU3MQ==",
-  githubUserName: "amanuell2"
+  githubConvertedToken: "",
+  githubUserName: ""
 };
 
 const bigProjects = {
